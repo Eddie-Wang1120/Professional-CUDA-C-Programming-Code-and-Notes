@@ -12,3 +12,5 @@ CUDA C 权威编程指南代码实现 包含了书上第二章到第八章的大
 <br>第8章　GPU加速库和OpenACC
 
 ## pdf书籍地址
+<br>链接：https://pan.baidu.com/s/12malQK71SfhALqcpZYQFKA 
+<br>提取码：f0xa
